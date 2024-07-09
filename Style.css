@@ -1,0 +1,100 @@
+table{
+    border: solid 2px black;
+    padding: 0.5%;
+    border-radius: 5PX;
+}
+td{
+    border: 2px solid rgb(102, 125, 145);
+    width: 35px;
+    height: 36px;
+    border-radius: 5px;
+    padding: 2%;
+
+}
+#ans{
+    border-radius: 7px;
+    background-color: aliceblue;
+    color: rgb(38, 196, 167);
+}
+/* .input td{
+    margin: 1%;
+} */
+td{
+    text-align: center
+}
+table{
+    background-color: rgb(102, 125, 145);
+}
+td{
+    background-color: rgb(223, 207, 101);
+}
+b{
+    font-size: large;
+}
+.red{
+    background-color: brown;
+}
+.head{
+    border: 0px;
+}
+
+/* mainpage */
+
+#mainimg{
+    border-radius: 50%;
+    margin: 10px auto;
+    display: block;
+}
+.maintax{
+    background-color: rgba(52, 89, 122, 0.681);
+    justify-content: center;
+    width: 400px;
+    padding: 2%;
+}
+#hed{
+    text-align: center;
+}
+#Main{
+    justify-content: center;
+}
+
+/* search */
+.rows .col-2{
+    display: inline;
+     background-color: antiquewhite;
+    padding:1%;
+    width: 240px;
+}
+.searchin{
+    padding-bottom: 2px;
+} 
+#insearch{
+    padding-top: 3%;
+    background-color: rgb(195, 204, 204);
+    color: rgb(116, 147, 174);
+}
+#formSearch{
+    background-color: aqua;
+    padding: 1%;
+    width: 210px;
+    border: 2px solid 
+    rgb(115, 164, 156);
+}
+
+/* nav */
+
+li{
+    display: inline;
+    margin: 2%;
+    color: aliceblue;
+}
+nav{
+    background-color: rgb(12, 125, 231);
+    padding: 0.5%;
+    text-align: center;
+}
+li:hover{
+    background-color: rgba(43, 26, 26, 0.246);
+    padding: 1%;
+    border-radius: 3px;
+}   
